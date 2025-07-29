@@ -26,7 +26,7 @@ export const Header = () => {
         >
           <a href="/" className="-m-1.5 p-1.5 flex items-center gap-3">
             <img 
-              className="h-10 w-auto hover:scale-110 transition-transform duration-300" 
+              className="h-8 w-auto hover:scale-110 transition-transform duration-300" 
               src="/lovable-uploads/9a6b0e4d-2043-4518-b59b-f9e0eba6a436.png" 
               alt="Horizn"
             />
