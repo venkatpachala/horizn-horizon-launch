@@ -12,8 +12,9 @@ export const HeroSection = () => {
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-20">
       <ParticleBackground />
       
-      {/* Main gradient glow */}
-      <div className="absolute inset-0 bg-gradient-to-br from-primary/20 via-transparent to-pink-500/20"></div>
+      {/* Enhanced dark gradient overlay */}
+      <div className="absolute inset-0 bg-gradient-to-br from-primary/10 via-pink-500/5 to-orange-500/10"></div>
+      <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_left,_hsl(258_90%_66%/0.15),_transparent_50%)] bg-[radial-gradient(ellipse_at_bottom_right,_hsl(332_80%_65%/0.1),_transparent_50%)]"></div>
       
       <div className="relative z-10 mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-4xl text-center">
