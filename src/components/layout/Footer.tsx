@@ -43,7 +43,7 @@ export const Footer = () => {
               <div className="flex items-center gap-3">
                 <img 
                   className="h-10 w-auto" 
-                  src="/lovable-uploads/50568571-e1b1-4f06-85bc-755a63323b43.png" 
+                  src="/horizn-uploads/50568571-e1b1-4f06-85bc-755a63323b43.png"
                   alt="Horizn"
                 />
                 <span className="text-2xl font-bold gradient-text">horizn</span>
